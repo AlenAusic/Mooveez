@@ -6,12 +6,11 @@ This is Movies and TV Shows App made with React Native.
 
 ```
 "axios": "^0.18.0",
-    "babel-plugin-transform-decorators-legacy": "^1.3.5",
-    "expo": "^30.0.1",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
-    "react-native-elements": "^0.19.1",
-    "react-navigation": "^2.17.0"
+"expo": "^30.0.1",
+"react": "16.3.1",
+"react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+"react-native-elements": "^0.19.1",
+"react-navigation": "^2.17.0"
 ```
 
 ## Installation info
