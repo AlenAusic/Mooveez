@@ -8,10 +8,12 @@ This is Movies and TV Shows App made with React Native.
 
 ## Info
 
+```
 git clone https://github.com/AlenAusic/Mooveez.git
 cd Mooveez
 npm install
 expo start
+```
 
 ## Notes
 
