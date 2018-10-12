@@ -38,7 +38,7 @@ P.S. For this to work, your Android device and laptop/PC must be connected to th
 
 ## Other notes
 
-I couldn't achieve nesting stackNavigator inside tabNavigator even after Google-ing it for more than two day. This is why I couldn't finish this project and the only thing missing is MoreInfo screen when some movie or show is clicked. I tried using other navigation libraries, but all of them are deprecated. Maybe I didn't pass navigation props properly from one screen to another. 
+I couldn't achieve nesting **stackNavigator** inside **tabNavigator** even after Google-ing it for more than two day. This is why I couldn't finish this project and the one thing missing is **MoreInfo** screen which should open when some movie or show is clicked. I tried using other navigation libraries, but all of them are deprecated. Maybe I didn't pass navigation props properly from one screen to another. 
 
 I would love **really** like some feedback on this if you have someone with React Native experience on your team.
 
