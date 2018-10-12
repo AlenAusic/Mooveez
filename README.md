@@ -27,6 +27,8 @@ Open Expo app on your device and click on "Scan QR Code", then scan one in termi
 
 App will be boundled and should start in a few seconds.
 
+P.S. For this to work, your Android device and laptop/PC must be connected to the same WiFi network. 
+
 ## Other notes
 
 I couldn't achieve nesting stackNavigator inside tabNavigator even after Google-ing it for more than two day. This is why I couldn't finish this project and the only thing missing is MoreInfo screen when some movie or show is clicked. I tried using other navigation libraries, but all of them are deprecated. Maybe I didn't pass navigation props properly from one screen to another. 
